@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=450&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Code.+Debug.+Repeat.🚀" alt="Typing SVG" />
-</p>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="300px" alt="coder girl gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 ---
