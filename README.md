@@ -1,8 +1,11 @@
-<h1 align="center">Hi there, I'm Swati Pandey 👋</h1>
-<h3 align="center">CSE Undergraduate | Android Developer | AI/ML Enthusiast | Hackathon Finalist</h3>
+<h1 align="center">
+  Hey there! 👋 I'm <span style="color:#4FC3F7;">Swati Pandey</span>  
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Coder+%26+Tech+Explorer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coder Girl Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
 </p>
 
 ---
