@@ -18,10 +18,15 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-| Languages | Tools & IDEs | ML/AI & Web |
-|----------|--------------|-------------|
-| Java, Python, C++, C, JavaScript | Android Studio, VS Code, PyCharm, Git/GitHub, Google Colab | TensorFlow, Keras, YOLOv8+, OpenCV, Firebase, Flask, MySQL |
+### 🧠 Tech Stack & Tools
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?&style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Android](https://img.shields.io/badge/AndroidStudio-3DDC84?&style=for-the-badge&logo=androidstudio&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?&style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
