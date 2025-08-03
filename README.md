@@ -34,20 +34,25 @@
 
 ---
 
-### 📱 Projects
+### 📱 My Projects
 
-🚀 **Vegetable Price Prediction App** (SIH 2024 – Team Leader)  
-→ Built detection and prediction pipeline using **YOLOv8+**, **TensorFlow Lite**, and **Flask**  
-→ Real-time camera-based detection on mobile and server-side price prediction
+#### 📂 [PDF Editor App](https://github.com/swati)
+> *Java, Android Studio, Firebase Auth*  
+✔️ PDF to DOC converter, scanner, compressor  
+✔️ Reduced crashes by 25%, improved UI for better UX  
+✔️ Boosted user retention by 20%  
 
-📊 **Expense Manager App**  
-→ Built using **MVVM** architecture and Realm DB  
-→ Tracks, visualizes, and manages daily expenses
+#### 💰 [Expense Manager App](https://github.com/swati)
+> *Java, Realm DB, MVVM*  
+✔️ Improved tracking accuracy by 25%  
+✔️ 40% faster data visualization  
+✔️ Optimized memory usage and app size  
 
-🎯 **Face/Object Detection App**  
-→ Real-time image recognition using **ML Kit**
-
-📝 More projects on my **[GitHub Repositories](https://github.com/gr8swati?tab=repositories)**
+#### 🎯 [Face & Object Detection](https://github.com/swati)
+> *ML Kit, Android Studio*  
+✔️ Real-time detection with 95%+ accuracy  
+✔️ Facial landmark & activity recognition  
+✔️ Enhanced user engagement  
 
 ---
 
