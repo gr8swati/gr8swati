@@ -2,13 +2,13 @@
 <h3 align="center">CSE Undergraduate | Android Developer | AI/ML Enthusiast | Hackathon Finalist</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coder Girl Animation"/>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering** at Gyan Ganga College of Technology, Jabalpur
+- 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering** at Gyan Ganga College of Technology, Jabalpur  
 - 📊 CGPA: **8.55 / 10**
 - 🌱 I’m improving my skills in **DSA, Android Development, Machine Learning**, and **Game Development**
 - 🚀 Passionate about building real-world solutions using AI and modern tech
@@ -19,6 +19,7 @@
 ---
 
 ### 🧠 Tech Stack & Tools
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?&style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,10 +37,6 @@
 → Built detection and prediction pipeline using **YOLOv8+**, **TensorFlow Lite**, and **Flask**  
 → Real-time camera-based detection on mobile and server-side price prediction
 
-🌿 **Virtual Herbal Garden** (AYUSH MedTech Hackathon)  
-→ 3D plant models, virtual tour, search/filter system  
-→ Educates users on medicinal plants used in AYUSH
-
 📊 **Expense Manager App**  
 → Built using **MVVM** architecture and Realm DB  
 → Tracks, visualizes, and manages daily expenses
@@ -47,11 +44,12 @@
 🎯 **Face/Object Detection App**  
 → Real-time image recognition using **ML Kit**
 
-📝 More projects on my **[GitHub Repositories](https://github.com/swati35326?tab=repositories)**
+📝 More projects on my **[GitHub Repositories](https://github.com/gr8swati?tab=repositories)**
 
 ---
 
 ### 🏆 Achievements
+
 - 🛡️ **HackOverflow Finalist (2024)** – Built legal query app using Trie data structure  
 - 🕵️ **Kavach Finalist (2023)** – Violence detection system using YOLO + CCTV feeds  
 - 🧠 Solved **550+ DSA problems** on GeeksforGeeks  
@@ -60,11 +58,19 @@
 
 ---
 
+### 📊 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/swatipandey_62/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14a600?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/swatipandktjl/)
+
+---
+
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/swati-pandey-874170253/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/swati-pandey-a0248a239/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/gr8swati)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:swatipandey2203@gmail.com)
-- 📍 Location: Jabalpur, Madhya Pradesh, India  
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:swati35326@gmail.com)  
+📍 Jabalpur, Madhya Pradesh, India
 
 ---
 
@@ -77,14 +83,18 @@
 
 ---
 
-
 ### 🧠 Fun Fact  
 > ☕ I turn **coffee into code** — and ideas into real-world Android & AI solutions!
 
+---
+
 ### ⚡ Bonus Dev Humor
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+debugging...;Always+learning...;Always+building+something+cool+!;Connect+with+me+%F0%9F%91%87" />
+</p>
 
 ```java
 while (!coding) {
     dayDreamAboutCode();
 }
-
