@@ -60,20 +60,23 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/swati-pandey-874170253/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/gr8swati)
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:swatipandey2203@gmail.com)
+- 📍 Location: Jabalpur, Madhya Pradesh, India  
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swati35326&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swati35326&theme=radical" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gr8swati&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gr8swati&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: [swati35326@gmail.com](mailto:swati35326@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/swati-pandey-35326](https://www.linkedin.com/in/swati-pandey-35326)  
-- 📍 Location: Jabalpur, Madhya Pradesh, India  
-
----
 
 ### 🧠 Fun Fact  
 > ☕ I turn **coffee into code** — and ideas into real-world Android & AI solutions!
