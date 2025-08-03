@@ -1,11 +1,13 @@
 <h1 align="center">
-  Hey there! 👋 I'm <span style="color:#4FC3F7;">Swati Pandey</span>  
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
+  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> I'm Swati Pandey
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=450&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Code.+Debug.+Repeat.🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="300px" alt="coder girl gif"/>
 </p>
 
 ---
