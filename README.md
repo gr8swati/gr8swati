@@ -1,88 +1,92 @@
 <h1 align="center">
   Hey there! 👋 I'm <span style="color:#4FC3F7;">Swati Pandey</span>  
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Coder+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering** at Gyan Ganga College of Technology, Jabalpur  
-- 📊 CGPA: **8.55 / 10**
-- 🌱 I’m improving my skills in **DSA, Android Development, Machine Learning**, and **Game Development**
-- 🚀 Passionate about building real-world solutions using AI and modern tech
-- 💡 Exploring game engines like **Unity** and tools like **Blender**
-- 👩‍🔬 Interested in AI-based traffic systems, cyber forensics, and smart agriculture
-- 🎯 Finalist in national-level hackathons like **Hackoverflow** and **Kavach**
+
+- 🎓 Pursuing **B.Tech in Computer Science Engineering** @ Gyan Ganga College of Technology, Jabalpur  
+- 📊 CGPA: **8.56 / 10**
+- 🛠️ Building scalable apps, exploring ML/AI and real-time detection systems  
+- 🌱 Improving skills in **DSA, Android, ML**, and **Unity Game Dev**  
+- 🧠 Interests: Smart agriculture 🌾, cyber forensics 🕵️‍♀️, AI in public systems 🚦  
+- 🥇 Finalist in national hackathons — Hackoverflow 2024 & Kavach 2023  
 
 ---
 
-### 🧠 Tech Stack & Tools
+### 🚀 Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?&style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Android](https://img.shields.io/badge/AndroidStudio-3DDC84?&style=for-the-badge&logo=androidstudio&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?&style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![ML Kit](https://img.shields.io/badge/MLKit-grey?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8+-black?style=for-the-badge&logo=opencv&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📱 My Projects
+### 🛠️ Projects Showcase
 
-#### 📂 [PDF Editor App](https://github.com/swati)
-> *Java, Android Studio, Firebase Auth*  
-✔️ PDF to DOC converter, scanner, compressor  
-✔️ Reduced crashes by 25%, improved UI for better UX  
-✔️ Boosted user retention by 20%  
+#### 📄 [PDF Editor App](https://github.com/swati)
+> Java, Android Studio, Firebase  
+✔️ PDF to DOC, scanner, compressor, editor  
+✔️ Firebase Auth + clean UI  
+✔️ Reduced crashes by 25%, improved retention by 20%  
 
-#### 💰 [Expense Manager App](https://github.com/swati)
-> *Java, Realm DB, MVVM*  
-✔️ Improved tracking accuracy by 25%  
+#### 💸 [Expense Manager](https://github.com/swati)
+> Java, MVVM, Realm DB  
+✔️ Fast CRUD ops, memory-optimized UI  
+✔️ 25% tracking accuracy boost  
 ✔️ 40% faster data visualization  
-✔️ Optimized memory usage and app size  
 
-#### 🎯 [Face & Object Detection](https://github.com/swati)
-> *ML Kit, Android Studio*  
-✔️ Real-time detection with 95%+ accuracy  
-✔️ Facial landmark & activity recognition  
-✔️ Enhanced user engagement  
+#### 🧠 [Face/Object Detection](https://github.com/swati)
+> Android, ML Kit  
+✔️ Real-time object/facial detection  
+✔️ Achieved 95%+ accuracy  
+✔️ 30% speed gain using pretrained SDKs  
 
 ---
 
 ### 🏆 Achievements
 
-- 🛡️ **HackOverflow Finalist (2024)** – Built legal query app using Trie data structure  
-- 🕵️ **Kavach Finalist (2023)** – Violence detection system using YOLO + CCTV feeds  
-- 🧠 Solved **550+ DSA problems** on GeeksforGeeks  
-- 🥇 Ranked #1 in class (Topper – 2022)  
-- ✅ Selected for **Smart India Hackathon 2024** (Problem ID: SIH1647)
+- 🧠 **550+ Problems** on GeeksforGeeks  
+- 🛡️ **HackOverflow Finalist 2024** — Legal query app using Trie & Firebase  
+- 🕵️‍♂️ **Kavach Finalist 2023** — Real-time violence detection (YOLO + CCTV)  
+- 🥇 **Topper (2022)** – CSE Branch, GGCT  
+- 🚀 **Shortlisted for Smart India Hackathon 2024**  
 
 ---
 
-### 📊 Coding Profiles
+### 🔗 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/swatipandey_62/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14a600?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/swatipandktjl/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/swatipandey_62/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/swatipandktjl/)
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/swati-pandey-a0248a239/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/gr8swati)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:swati35326@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swati-pandey-a0248a239/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/gr8swati)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:swati35326@gmail.com)
+
 📍 Jabalpur, Madhya Pradesh, India
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gr8swati&show_icons=true&theme=radical&hide_border=true" />
@@ -91,15 +95,17 @@
 
 ---
 
-### 🧠 Fun Fact  
-> ☕ I turn **coffee into code** — and ideas into real-world Android & AI solutions!
+### 😄 Fun Fact
+
+> ☕ I turn **coffee into code** and **bugs into features**  
+> 🧩 Always learning, always building — join the journey 🚀
 
 ---
 
-### ⚡ Bonus Dev Humor
+### 💡 Dev Vibes
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+debugging...;Always+learning...;Always+building+something+cool+!;Connect+with+me+%F0%9F%91%87" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+debugging...;Always+learning...;Always+building...;Connect+with+me+%F0%9F%91%87" />
 </p>
 
 ```java
