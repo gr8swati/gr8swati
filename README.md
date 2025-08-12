@@ -15,7 +15,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science Engineering** @ Gyan Ganga College of Technology, Jabalpur  
-- 📊 CGPA: **8.5 / 10**
+- 📊 CGPA: **8.55 / 10**
 - 🛠️ Building scalable apps, exploring ML/AI and real-time detection systems  
 - 🌱 Improving skills in **DSA, Android Development, ML** 
 - 🥇 Finalist in national hackathons — Hackoverflow 2024 & Kavach 2023  
