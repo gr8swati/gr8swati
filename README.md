@@ -1,24 +1,37 @@
 <h1 align="center">
-  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> I'm Swati Pandey
+  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm <strong>Swati Pandey</strong> 👩‍💻
 </h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
-</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&center=true&vCenter=true&width=600&lines=⚡%20Android+Developer;🤖%20AI%2FML+Enthusiast;🏆%20Hackathon+Finalist;🔧%20Problem+Solver+%26+Builder" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering** @ Gyan Ganga College of Technology, Jabalpur  
-- 📊 CGPA: **8.55 / 10**
-- 🛠️ Building scalable apps, exploring ML/AI and real-time detection systems  
-- 🌱 Improving skills in **DSA, Android Development, ML** 
-- 🥇 Finalist in national hackathons — Hackoverflow 2024 & Kavach 2023  
+```java
+public class SwatiPandey {
+    private String role = "Android Developer | Tech Explorer";
+    private String education = "B.Tech CSE @ Gyan Ganga College, Jabalpur | CGPA: 8.55";
+    private List<String> skills = {"Android", "Kotlin", "Java", "ML/AI", "Firebase", "DSA"};
+    private String mission = "Building scalable apps & intelligent systems";
+    private boolean hackathonWinner = true;
+    private int problemsSolved = 550; // GeeksforGeeks
+
+    public void code() {
+        while (alive) {
+            learn();
+            build();
+            debug();
+            repeat();
+        }
+    }
+}
 
 ---
 
