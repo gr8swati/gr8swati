@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&center=true&vCenter=true&width=600&lines=⚡%20Android+Developer;🤖%20AI%2FML+Enthusiast;🏆%20Hackathon+Finalist;🔧%20Problem+Solver+%26+Builder" alt="Typing SVG" />
-</p>
+ <img src="https://readme-typing-svg.demolab.com  ?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
