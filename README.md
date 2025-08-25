@@ -2,9 +2,12 @@
   Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm <strong>Swati Pandey</strong> 👩‍💻
 </h1>
 
+<!-- Centered Typing Animation -->
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com  ?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
-</h1>
+  <a href="https://github.com/gr8swati">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=⚡+Android+Developer;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Finalist;🔧+Problem+Solver+%26+Builder" alt="Typing Animation" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
@@ -14,11 +17,12 @@
 
 ### 🧑‍💻 About Me
 
+<!-- Java Developer Vibes -->
 ```java
 public class SwatiPandey {
     private String role = "Android Developer | AI/ML Explorer";
     private String education = "B.Tech CSE @ Gyan Ganga College, Jabalpur | CGPA: 8.55";
-    private String[] skills = {"Android", "Kotlin", "Java", "ML/AI", "Firebase", "DSA"};
+    private List<String> skills = List.of("Android", "Java", "Kotlin", "ML/AI", "Firebase", "DSA");
     private String mission = "Building scalable apps & intelligent systems";
     private String hackathonStatus = "Hackathon Finalist (HackOverflow & Kavach)";
     private int problemsSolved = 550; // GeeksforGeeks
@@ -32,6 +36,7 @@ public class SwatiPandey {
         }
     }
 }
+
 ```
 
 ### 🚀 Tech Stack & Tools
