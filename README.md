@@ -5,7 +5,7 @@
 <!-- Centered Typing Animation -->
 <p align="center">
   <a href="https://github.com/gr8swati">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=600&lines= +Android+Developer;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Finalist;🔧+Problem+Solver+%26+Builder" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=+Android+Developer;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Finalist;🔧+Problem+Solver+%26+Builder" alt="Typing Animation" />
   </a>
 </p>
 
