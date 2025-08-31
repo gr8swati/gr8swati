@@ -153,8 +153,3 @@ achievements:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Compiling+passion...;Debugging+life...;Pushing+to+main...;Deploying+dreams...;Connect+with+me+%F0%9F%91%87" alt="Dev Mode Activated" />
 </p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:000000&height=60&section=footer"/>
-</p>
