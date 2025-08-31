@@ -20,7 +20,7 @@
 - ⚙️ **550+ DSA Problems Solved** (GeeksforGeeks)  
 - 💡 Mission: *"Building scalable apps & intelligent systems"*  
 
-```java
+```jaml
 public class SwatiPandey {
     String[] stack = {"Java", "Kotlin", "Python", "C++"};
     String[] mobile = {"Android Studio", "Firebase", "ML Kit"};
