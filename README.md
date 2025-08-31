@@ -1,9 +1,7 @@
-
 <!-- HEADER CAPSULE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A66C2&height=130&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=30&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:004aad&height=130&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=34&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
 </p>
-
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/c9/d8/22/c9d82282ad54e2dabc3c81a538a7340a.gif" width="500" alt="Swati Banner Animation"/>
@@ -12,102 +10,105 @@
 <!-- Centered Typing Animation -->
 <p align="center">
   <a href="https://github.com/gr8swati">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Android+Developer;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Finalist;🔧+Problem+Solver+%26+Builder" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Android+Developer;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Finalist;🔧+Problem+Solver+%26+Innovator;🚀+Building+Scalable+Apps+%26+Intelligent+Systems" alt="Typing Animation" />
   </a>
 </p>
 
+---
+
 ### ❄️ Who Am I?
 
-> *Breaking the usual norm of “Hi there 👋” — here's what defines me:*
-
-- 👩‍💻 Android Developer • AI/ML Explorer  
-- 🎓 B.Tech CSE @ Gyan Ganga College, Jabalpur | **CGPA: 8.55**  
-- 🧠 Hackathon Finalist — **HackOverflow & Kavach**  
-- ⚙️ **550+ DSA Problems Solved** (GeeksforGeeks)  
-- 💡 Mission: *"Building scalable apps & intelligent systems"*  
+> *Breaking the norm of “Hi there 👋” — here's me in code:*
 
 ```yaml
 name: Swati Pandey
 role: Android & AI/ML Developer
-location: India
-interests: 
-  - Android Development
-  - AI/ML for Agriculture
-  - Game Development
-  - Open Source
+email: swati35326@gmail.com
+phone: +91-6261124618
+location: Jabalpur, Madhya Pradesh, India
+education: 
+  - Bachelor of Technology in Computer Science and Engineering
+  - Gyan Ganga College of Technology (2021–2025), CGPA: 8.56
 skills:
-  - Java
-  - Python
-  - C++
-  - TensorFlow Lite
-  - YOLOv8+
-  - Android Studio
-hackathon_participation:
-  - SIH 2024 Finalist
-  - Hackoverflow
-  - Kavach
-
+  languages: [Java, Python, C++, Kotlin, JavaScript, SQL, XML]
+  tools: [VS Code, IntelliJ IDEA, Android Studio, Git/GitHub, PyCharm, Google Colab]
+  frameworks: [TensorFlow, Keras, OpenCV, YOLOv8+, RealmDB, Firebase, RESTful APIs, MVVM]
+interests: [Android Development, Machine Learning, AI for Agriculture, Game Development, Open Source]
+achievements:
+  - 550+ DSA Problems Solved (GeeksforGeeks)
+  - HackOverflow 2024 Finalist (Legal AI App)
+  - Kavach 2023 Finalist (Violence Detection System)
+  - College Topper (2022)
 ````
 
 ---
+<!-- RESUME BUTTON -->
+<p align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20or%20Download-2c5364?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
-## 🧰 Tools and Tech Stuff
+## 🧰 Tools & Tech Stack
 
 <p align="center">
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  
+
   <!-- Tools & Frameworks -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  
+
   <!-- Cloud & Others -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 </p>
 
+---
+
+### 🌟 Featured Projects
+
+| Project                                                                           | Description                                                                                                       |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [📄 PDF Editor Pro](https://github.com/gr8swati/pdf-editor-pro)                   | PDF conversion, compression, scanning & editing with Firebase Auth — **25% fewer crashes & 20% better retention** |
+| [💸 Expense Manager](https://github.com/gr8swati/expense-manager)                 | Real-time expense tracking with MVVM & RealmDB — **40% faster data visualization**                                |
+| [🧠 Face/Object Detection](https://github.com/gr8swati/face-object-detection)     | Real-time detection using CameraX + ML Kit — **95% accuracy & 30% faster inference**                              |
+| [🌾 AI Agri Price Predictor](https://github.com/gr8swati/ai-agri-price-predictor) | Predicts vegetable prices with YOLOv8+ & TensorFlow — **real-time prediction enabled**                            |
 
 ---
 
-### 🌟 Noteworthy Projects
+### 🏆 Highlights & Experience
 
-| Project                                                                           | Highlights                                                                                                                                              |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [📄 PDF Editor Pro](https://github.com/gr8swati/pdf-editor-pro)                   | Convert, compress, scan & edit PDFs with Firebase Auth<br>✔️ 25% fewer crashes • 20% better retention<br>**Stack:** Java • Android Studio • Firebase    |
-| [💸 Expense Manager](https://github.com/gr8swati/expense-manager)                 | Real-time expense tracking with optimized UI<br>✔️ 40% faster data visualization<br>**Stack:** MVVM • Java • Realm DB                                   |
-| [🧠 Real-Time Detection](https://github.com/gr8swati/face-object-detection)       | Detect faces & objects in real-time with CameraX + ML Kit<br>✔️ 95% accuracy • 30% faster inference<br>**Stack:** Android • ML Kit • TensorFlow         |
-| [🌾 AI Agri Price Predictor](https://github.com/gr8swati/ai-agri-price-predictor) | Predict vegetable prices using TensorFlow + YOLOv8+<br>✔️ Real-time detection + API-based prediction<br>**Stack:** Python • Flask • TensorFlow • TFLite |
+* **Android Developer Intern @ LeapAI (2023)** — Built PDF editor with 25% fewer crashes & 20% better retention.
+* **HackOverflow 2024 Finalist** — Legal AI Query App (Trie-based search + Firebase).
+* **Kavach 2023 Finalist** — YOLO-based violence detection for real-time CCTV feeds.
+* **CSE Branch Topper 2022** — GGCT, Jabalpur.
 
 ---
 
-### 🏆 Highlights & Achievements
+### 🌐 Let's Connect
 
-* 🧠 **550+ DSA Problems Solved** — Time Complexity: O(consistency)
-* 🛡️ **HackOverflow Finalist 2024** — Legal AI App
-* 🕵️‍♂️ **Kavach Finalist 2023** — Violence Detection via YOLO + CCTV Streams
-* 🥇 **CSE Branch Topper 2022** — GGCT
-* 🚀 **Smart India Hackathon 2024 — Shortlisted**
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati_Pandey-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/swati-pandey)
-[![GitHub](https://img.shields.io/badge/GitHub-gr8swati-black?style=flat\&logo=github)](https://github.com/gr8swati)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Swati-green?style=flat\&logo=geeksforgeeks)](https://geeksforgeeks.org/user/gr8swati)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Swati-orange?style=flat\&logo=leetcode)](https://leetcode.com/gr8swati)
-
-📍 Jabalpur, Madhya Pradesh, India | 🌐 *Always online in dev mode*
+<p align="center">
+  <a href="mailto:swati35326@gmail.com"><img src="https://img.shields.io/badge/Email-swati35326%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/swati-pandey-a0248a239"><img src="https://img.shields.io/badge/LinkedIn-Swati%20Pandey-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/gr8swati"><img src="https://img.shields.io/badge/GitHub-gr8swati-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/gr8swati"><img src="https://img.shields.io/badge/LeetCode-gr8swati-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://geeksforgeeks.org/user/gr8swati"><img src="https://img.shields.io/badge/GeeksforGeeks-550%2B%20DSA%20Solved-brightgreen?style=for-the-badge&logo=geeksforgeeks"></a>
+</p>
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=gr8swati&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%"/> 
@@ -120,23 +121,15 @@ hackathon_participation:
 
 ---
 
-### 😄 Fun Bytes
+### ☕ Fun Bytes
 
-☕ Fueled by coffee • Compiling dreams into apps • Refactoring bugs into features
-💬 `System.out.println("Let's build something epic!");`
-🚀 *Always in beta mode — updating daily!*
+* Fueled by coffee ☕ • Debugging life • Deploying dreams
+* `System.out.println("Let's build something epic!");`
+* *Always in beta mode — improving every commit!*
 
 ---
 
-### 💡 Dev Vibes
-
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=18&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=480&lines=Compiling+passion...;Debugging+life...;Pushing+to+main...;Deploying+dreams...;Connect+with+me+%F0%9F%91%87" alt="Dev Mode Activated" /> 
-</p>
-
-<!-- FOOTER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:004aad&height=100&section=footer"/>
 </p>
-
+```
