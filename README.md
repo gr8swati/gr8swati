@@ -83,21 +83,15 @@ achievements:
 - Advanced PDF conversion, compression & scanning  
 - **Result:** 25% fewer crashes · 20% better user retention
 
----
-
 #### [💸 Expense Manager](https://github.com/gr8swati/expense-manager)
 > **Tech:** Kotlin, MVVM, RealmDB  
 - Real-time expense tracking & insights dashboard  
 - **Result:** 40% faster data visualization
 
----
-
 #### [🧠 Face/Object Detection](https://github.com/gr8swati/face-object-detection)
 > **Tech:** ML Kit, CameraX, TensorFlow Lite  
 - Real-time detection with 95% accuracy  
 - **Result:** 30% faster inference & low-latency pipeline
-
----
 
 #### [🌾 AI Agri Price Predictor](https://github.com/gr8swati/ai-agri-price-predictor)
 > **Tech:** YOLOv8+, TensorFlow, Flask API  
@@ -149,4 +143,3 @@ achievements:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:004aad&height=100&section=footer"/>
 </p>
-```
