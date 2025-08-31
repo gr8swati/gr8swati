@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Hey%20There!%20Swati%20Here!%20👩‍💻&height=120&color=0:0D1117,100:000000&font=Fira+Code&fontSize=32&fontAlignY=35&fontColor=00FF99&animation=fadeIn"/>
-</p>
-
+<h1 align="center"> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm <strong>Swati Pandey</strong> 👩‍💻 </h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/c9/d8/22/c9d82282ad54e2dabc3c81a538a7340a.gif" width="500" alt="Swati Banner Animation"/>
