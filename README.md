@@ -36,10 +36,6 @@ skills:
   - TensorFlow Lite
   - YOLOv8+
   - Android Studio
-learning:
-  - Unity Game Development
-  - Advanced DSA
-  - Web Development (Flask/Django)
 hackathon_participation:
   - SIH 2024 Finalist
   - Hackoverflow
@@ -49,16 +45,27 @@ hackathon_participation:
 
 ---
 
-### 🚀 Tech Arsenal
+## 🧰 Tools and Tech Stuff
 
-**💻 Languages**
-Java • Kotlin • Python • C++
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  
+  <!-- Tools & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  
+  <!-- Cloud & Others -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+</p>
 
-**📱 Mobile & Cloud**
-Android Studio • Firebase • ML Kit
-
-**🤖 AI/ML & Dev Tools**
-TensorFlow • YOLOv8+ • VS Code • GitHub • Docker
 
 ---
 
