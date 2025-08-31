@@ -1,7 +1,8 @@
 <!-- HEADER CAPSULE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7F50,100:FF1493&height=160&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=42&animation=fadeIn&fontAlignY=35" />
 </p>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/c9/d8/22/c9d82282ad54e2dabc3c81a538a7340a.gif" width="600" alt="Swati Banner Animation"/>
