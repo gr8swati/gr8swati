@@ -1,18 +1,18 @@
-<!-- UNIQUE HEADER -->
+<!-- HEADER CAPSULE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Swati%20Pandey%20%7C%20Android%20%26%20AI%20Developer&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h1 align="center">
-  Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm <strong>Swati Pandey</strong> 👩‍💻
+  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm <strong>Swati Pandey</strong> 👩‍💻
 </h1>
 
+<!-- Centered Typing Animation -->
 <p align="center">
   <a href="https://github.com/gr8swati">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Android+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Problem+Solver+%26+Builder" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Android+Developer;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Finalist;🔧+Problem+Solver+%26+Builder" alt="Typing Animation" />
   </a>
 </p>
-
 ---
 
 ### ❄️ Who Am I?
