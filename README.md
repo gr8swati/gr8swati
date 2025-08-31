@@ -14,9 +14,8 @@
   </a>
 </p>
 
----
 
-### ❄️ Who Am I?
+### Who Am I?
 
 > *Breaking the norm of “Hi there 👋” — here's me in code:*
 
@@ -41,20 +40,21 @@ achievements:
   - College Topper (2022)
 ````
 
----
 <!-- RESUME BUTTON -->
 <p align="center">
   <a href="https://drive.google.com/file/d/1mKxN2zQ1RIeCBtg7vLkWsZR8G7skbH9i/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20or%20Download-2c5364?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20%26%20Download-0f2027?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1abc9c" alt="Resume" />
   </a>
 </p>
 
+<!-- PORTFOLIO BUTTON -->
+<p align="center">
+  <a href="https://portfolio-nu-eight-60.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0f2027?style=for-the-badge&logo=vercel&logoColor=white&labelColor=9b59b6" alt="Portfolio" />
+  </a>
+</p>
 
-### Portfolio 
-
-- **Portfolio:** [Visit Here »](https://portfolio-nu-eight-60.vercel.app/)  
-
-## 🧰 Tools & Tech Stack
+## Tools & Tech Stack 
 
 <p align="center">
   <!-- Languages -->
@@ -79,9 +79,7 @@ achievements:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 </p>
 
----
-
-### 🚀 Featured Projects
+### Projects 
 
 <div align="center">
 
@@ -99,27 +97,13 @@ achievements:
 
 </div>
 
----
-
-### 🛠 Tech Stack & Skills
-
-- **Android & Java Development:** Android Studio · MVVM · RealmDB  
-- **Machine Learning & AI:** TensorFlow · Keras · YOLOv8+ · OpenCV  
-- **Web Development:** HTML · CSS · JavaScript  
-- **Database Management:** SQL · Firebase  
-- **Other:** Data Structures & Algorithms · OOP · C/C++
-
----
-
-### 🏆 Achievements
+### Achievements
 
 - Solved **550+ DSA problems** on GeeksforGeeks  
 - **3rd Rank (2024)** – Computer Science Engineering, Gyan Ganga College of Technology  
 - **Team Leader – Smart India Hackathon 2024 (Finalist)**  
 - **Finalist – Hackoverflow 2024 & Kavach Hackathon 2023**  
 - **College Topper – 2022**  
-
----
 
 ### Let's Connect 
 
@@ -150,8 +134,6 @@ achievements:
   </a>
 </p>
 
-
-
 ### 📊 GitHub Analytics
 
 <p align="center"> 
@@ -163,7 +145,6 @@ achievements:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr8swati&layout=compact&theme=transparent&hide_border=true" width="60%"/> 
 </p>
 
----
 
 ### ☕ Fun Bytes
 <p align="center">
@@ -172,7 +153,6 @@ achievements:
   <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">Always in beta mode — improving every commit!</code>
 </p>
 
----
 
 <!-- FOOTER -->
 <p align="center">
