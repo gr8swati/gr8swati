@@ -121,31 +121,42 @@ achievements:
 
 ---
 
-
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:swati35326@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+<p align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+
+  <a href="mailto:swati35326@gmail.com" title="Email Me">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+916261124618">
-    <img src="https://img.shields.io/badge/-Call-0A66C2?style=for-the-badge&logo=ios&logoColor=white">
+
+  <a href="tel:+916261124618" title="Call Me">
+    <img src="https://img.shields.io/badge/-Phone-0A66C2?style=for-the-badge&logo=ios&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/swati-pandey-a0248a239/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
+  <a href="https://www.linkedin.com/in/swati-pandey-a0248a239/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/swatipandey_62/">
-    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+
+  <a href="https://github.com/gr8swati" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/swatipandktjl/">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+
+  <a href="https://leetcode.com/u/swatipandey_62/" title="LeetCode">
+    <img src="https://img.shields.io/badge/-LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/swatipandey_cse1">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+
+  <a href="https://www.geeksforgeeks.org/user/swatipandktjl/" title="GeeksforGeeks">
+    <img src="https://img.shields.io/badge/-GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://x.com/PSWATI51842689">
-    <img src="https://img.shields.io/badge/-X_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+
+  <a href="https://www.hackerrank.com/profile/swatipandey_cse1" title="HackerRank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+
+  <a href="https://x.com/PSWATI51842689" title="X / Twitter">
+    <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
 </p>
 
 
