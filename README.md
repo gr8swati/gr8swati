@@ -44,10 +44,15 @@ achievements:
 ---
 <!-- RESUME BUTTON -->
 <p align="center">
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://drive.google.com/file/d/1mKxN2zQ1RIeCBtg7vLkWsZR8G7skbH9i/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20or%20Download-2c5364?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
+
+
+### Portfolio 
+
+- **Portfolio:** [Visit Here »](https://portfolio-nu-eight-60.vercel.app/)  
 
 ## 🧰 Tools & Tech Stack
 
@@ -80,27 +85,42 @@ achievements:
 
 <div align="center">
 
-| [![PDF Editor Pro](https://img.shields.io/badge/-PDF%20Editor%20Pro-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/gr8swati/pdf-editor-pro) | [![Expense Manager](https://img.shields.io/badge/-Expense%20Manager-0D1117?style=for-the-badge&logo=googlewallet&logoColor=white)](https://github.com/gr8swati/expense-manager) |
+| [![CropCare](https://img.shields.io/badge/-CropCare%20App-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) | [![Expense Manager](https://img.shields.io/badge/-Expense%20Manager-0D1117?style=for-the-badge&logo=googlewallet&logoColor=white)](https://github.com/gr8swati/expense-manager) |
 | --- | --- |
-| **PDF Editor Pro**<br>Conversion, compression, scanning & editing with Firebase Auth.<br>_25% fewer crashes & 20% better retention_ | **Expense Manager**<br>Real-time tracking with MVVM & RealmDB.<br>_40% faster data visualization_ |
+| **CropCare App**<br>AI-powered vegetable recognition & price prediction.<br>_YOLOv8+ · TensorFlow Lite · Firebase_ | **Expense Manager**<br>Track & visualize expenses with pie charts.<br>_MVVM · RealmDB · Material Design_ |
 
-| [![Face/Object Detection](https://img.shields.io/badge/-Face%2FObject%20Detection-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white)](https://github.com/gr8swati/face-object-detection) | [![AI Agri Price Predictor](https://img.shields.io/badge/-AI%20Agri%20Price%20Predictor-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/gr8swati/ai-agri-price-predictor) |
+| [![Face/Object Detection](https://img.shields.io/badge/-Face%2FObject%20Detection-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white)](https://github.com/gr8swati/face-object-detection) | [![Newzify](https://img.shields.io/badge/-Newzify%20App-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) |
 | --- | --- |
-| **Face/Object Detection**<br>Real-time detection using CameraX + ML Kit.<br>_95% accuracy & 30% faster inference_ | **AI Agri Price Predictor**<br>YOLOv8+ & TensorFlow-powered price prediction.<br>_Real-time prediction enabled_ |
+| **Face & Object Detection**<br>Real-time detection with ML Kit & custom models.<br>_OpenCV · CameraX · Android Studio_ | **Newzify App**<br>News aggregator with categories, search & bookmarks.<br>_Retrofit · Firebase · Dark Mode_ |
+
+| [![Eye Controlled Player](https://img.shields.io/badge/-Eye%20Controlled%20Player-0D1117?style=for-the-badge&logo=googleglass&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) | [![Violence Detection](https://img.shields.io/badge/-Violence%20Detection%20System-0D1117?style=for-the-badge&logo=opencv&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) |
+| --- | --- |
+| **Eye Controlled Video Player**<br>Play/pause/seek using eye movements.<br>_MediaPipe · PyAutoGUI · Accessibility Focused_ | **Violence Detection System**<br>Real-time CCTV violence detection.<br>_YOLOv8 · Flask · OpenCV_ |
 
 </div>
 
+---
+
+### 🛠 Tech Stack & Skills
+
+- **Android & Java Development:** Android Studio · MVVM · RealmDB  
+- **Machine Learning & AI:** TensorFlow · Keras · YOLOv8+ · OpenCV  
+- **Web Development:** HTML · CSS · JavaScript  
+- **Database Management:** SQL · Firebase  
+- **Other:** Data Structures & Algorithms · OOP · C/C++
 
 ---
 
-### 🏆 Highlights & Experience
+### 🏆 Achievements
 
-* **Android Developer Intern @ LeapAI (2023)** — Built PDF editor with 25% fewer crashes & 20% better retention.
-* **HackOverflow 2024 Finalist** — Legal AI Query App (Trie-based search + Firebase).
-* **Kavach 2023 Finalist** — YOLO-based violence detection for real-time CCTV feeds.
-* **CSE Branch Topper 2022** — GGCT, Jabalpur.
+- Solved **550+ DSA problems** on GeeksforGeeks  
+- **3rd Rank (2024)** – Computer Science Engineering, Gyan Ganga College of Technology  
+- **Team Leader – Smart India Hackathon 2024 (Finalist)**  
+- **Finalist – Hackoverflow 2024 & Kavach Hackathon 2023**  
+- **College Topper – 2022**  
 
 ---
+
 
 ### 🌐 Let's Connect
 
