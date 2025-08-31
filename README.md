@@ -122,17 +122,32 @@ achievements:
 ---
 
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:swati35326@gmail.com"><img src="https://img.shields.io/badge/Email-swati35326%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/swati-pandey-a0248a239"><img src="https://img.shields.io/badge/LinkedIn-Swati%20Pandey-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/gr8swati"><img src="https://img.shields.io/badge/GitHub-gr8swati-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/gr8swati"><img src="https://img.shields.io/badge/LeetCode-gr8swati-orange?style=for-the-badge&logo=leetcode"></a>
-  <a href="https://geeksforgeeks.org/user/gr8swati"><img src="https://img.shields.io/badge/GeeksforGeeks-550%2B%20DSA%20Solved-brightgreen?style=for-the-badge&logo=geeksforgeeks"></a>
+  <a href="mailto:swati35326@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="tel:+916261124618">
+    <img src="https://img.shields.io/badge/-Call-0A66C2?style=for-the-badge&logo=ios&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/swati-pandey-a0248a239/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/swatipandey_62/">
+    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/swatipandktjl/">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/profile/swatipandey_cse1">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
+  <a href="https://x.com/PSWATI51842689">
+    <img src="https://img.shields.io/badge/-X_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
 </p>
 
----
 
 ### 📊 GitHub Analytics
 
@@ -155,6 +170,8 @@ achievements:
 
 ---
 
+<!-- FOOTER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:004aad&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
