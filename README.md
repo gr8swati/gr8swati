@@ -1,7 +1,7 @@
 
 <!-- HEADER CAPSULE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A66C2&height=150&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=44&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A66C2&height=145&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
 </p>
 
 
