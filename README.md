@@ -76,16 +76,33 @@ achievements:
 
 ---
 
-### 🌟 Featured Projects
+### 🛠 Projects
 
-| Project                                                                           | Description                                                                                                       |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [📄 PDF Editor Pro](https://github.com/gr8swati/pdf-editor-pro)                   | PDF conversion, compression, scanning & editing with Firebase Auth — **25% fewer crashes & 20% better retention** |
-| [💸 Expense Manager](https://github.com/gr8swati/expense-manager)                 | Real-time expense tracking with MVVM & RealmDB — **40% faster data visualization**                                |
-| [🧠 Face/Object Detection](https://github.com/gr8swati/face-object-detection)     | Real-time detection using CameraX + ML Kit — **95% accuracy & 30% faster inference**                              |
-| [🌾 AI Agri Price Predictor](https://github.com/gr8swati/ai-agri-price-predictor) | Predicts vegetable prices with YOLOv8+ & TensorFlow — **real-time prediction enabled**                            |
+#### [📄 PDF Editor Pro](https://github.com/gr8swati/pdf-editor-pro)
+> **Tech:** Java, Android Studio, Firebase  
+- Advanced PDF conversion, compression & scanning  
+- **Result:** 25% fewer crashes · 20% better user retention
 
 ---
+
+#### [💸 Expense Manager](https://github.com/gr8swati/expense-manager)
+> **Tech:** Kotlin, MVVM, RealmDB  
+- Real-time expense tracking & insights dashboard  
+- **Result:** 40% faster data visualization
+
+---
+
+#### [🧠 Face/Object Detection](https://github.com/gr8swati/face-object-detection)
+> **Tech:** ML Kit, CameraX, TensorFlow Lite  
+- Real-time detection with 95% accuracy  
+- **Result:** 30% faster inference & low-latency pipeline
+
+---
+
+#### [🌾 AI Agri Price Predictor](https://github.com/gr8swati/ai-agri-price-predictor)
+> **Tech:** YOLOv8+, TensorFlow, Flask API  
+- Predicts vegetable prices dynamically  
+- **Feature:** Real-time prediction enabled
 
 ### 🏆 Highlights & Experience
 
@@ -120,22 +137,6 @@ achievements:
 </p>
 
 ---
-## 📊 GitHub Metrics
-
-<!-- GitHub Metrics -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwatiPandey&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwatiPandey&theme=radical&hide_border=true" alt="GitHub Streak" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiPandey&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwatiPandey&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</p>
-
 
 ### ☕ Fun Bytes
 
