@@ -76,27 +76,22 @@ achievements:
 
 ---
 
-### 🛠 Projects
+### 🚀 Featured Projects
 
-#### [📄 PDF Editor Pro](https://github.com/gr8swati/pdf-editor-pro)
-> **Tech:** Java, Android Studio, Firebase  
-- Advanced PDF conversion, compression & scanning  
-- **Result:** 25% fewer crashes · 20% better user retention
+<div align="center">
 
-#### [💸 Expense Manager](https://github.com/gr8swati/expense-manager)
-> **Tech:** Kotlin, MVVM, RealmDB  
-- Real-time expense tracking & insights dashboard  
-- **Result:** 40% faster data visualization
+| [![PDF Editor Pro](https://img.shields.io/badge/-PDF%20Editor%20Pro-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/gr8swati/pdf-editor-pro) | [![Expense Manager](https://img.shields.io/badge/-Expense%20Manager-0D1117?style=for-the-badge&logo=googlewallet&logoColor=white)](https://github.com/gr8swati/expense-manager) |
+| --- | --- |
+| **PDF Editor Pro**<br>Conversion, compression, scanning & editing with Firebase Auth.<br>_25% fewer crashes & 20% better retention_ | **Expense Manager**<br>Real-time tracking with MVVM & RealmDB.<br>_40% faster data visualization_ |
 
-#### [🧠 Face/Object Detection](https://github.com/gr8swati/face-object-detection)
-> **Tech:** ML Kit, CameraX, TensorFlow Lite  
-- Real-time detection with 95% accuracy  
-- **Result:** 30% faster inference & low-latency pipeline
+| [![Face/Object Detection](https://img.shields.io/badge/-Face%2FObject%20Detection-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white)](https://github.com/gr8swati/face-object-detection) | [![AI Agri Price Predictor](https://img.shields.io/badge/-AI%20Agri%20Price%20Predictor-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/gr8swati/ai-agri-price-predictor) |
+| --- | --- |
+| **Face/Object Detection**<br>Real-time detection using CameraX + ML Kit.<br>_95% accuracy & 30% faster inference_ | **AI Agri Price Predictor**<br>YOLOv8+ & TensorFlow-powered price prediction.<br>_Real-time prediction enabled_ |
 
-#### [🌾 AI Agri Price Predictor](https://github.com/gr8swati/ai-agri-price-predictor)
-> **Tech:** YOLOv8+, TensorFlow, Flask API  
-- Predicts vegetable prices dynamically  
-- **Feature:** Real-time prediction enabled
+</div>
+
+
+---
 
 ### 🏆 Highlights & Experience
 
