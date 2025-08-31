@@ -1,6 +1,5 @@
-<!-- HEADER CAPSULE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:000000&height=120&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=32&animation=fadeIn&fontColor=00FF99&font=Dancing+Script" />
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=0:0D1117,100:00FF99&height=100&font=Dancing+Script&fontSize=28&fontAlignY=35&fontColor=FFFFFF"/>
 </p>
 
 
