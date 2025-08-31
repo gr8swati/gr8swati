@@ -19,7 +19,6 @@
 
 ```yaml
 name: Swati Pandey
-role: Android & AI/ML Developer
 email: swati35326@gmail.com
 phone: +91-6261124618
 location: Jabalpur, Madhya Pradesh, India
@@ -29,10 +28,10 @@ education:
 skills:
   languages: [Java, Python, C++, Kotlin, JavaScript, SQL, XML]
   tools: [VS Code, IntelliJ IDEA, Android Studio, Git/GitHub, PyCharm, Google Colab]
-  frameworks: [TensorFlow, Keras, OpenCV, YOLOv8+, RealmDB, Firebase, RESTful APIs, MVVM]
-interests: [Android Development, Machine Learning, AI for Agriculture, Game Development, Open Source]
+  frameworks: [TensorFlow, OpenCV, YOLOv8+, RealmDB, Firebase, RESTful APIs, MVVM]
+interests: [Android Development, Machine Learning]
 achievements:
-  - 550+ DSA Problems Solved (GeeksforGeeks)
+  - 500+ DSA Problems Solved (GeeksforGeeks)
   - HackOverflow 2024 Finalist (Legal AI App)
   - Kavach 2023 Finalist (Violence Detection System)
   - College Topper (2022)
