@@ -20,21 +20,31 @@
 - ⚙️ **550+ DSA Problems Solved** (GeeksforGeeks)  
 - 💡 Mission: *"Building scalable apps & intelligent systems"*  
 
-```jaml
-public class SwatiPandey {
-    String[] stack = {"Java", "Kotlin", "Python", "C++"};
-    String[] mobile = {"Android Studio", "Firebase", "ML Kit"};
-    String[] ml = {"TensorFlow", "YOLOv8+", "TFLite"};
+```yaml
+name: Swati Pandey
+role: Android & AI/ML Developer
+location: India
+interests: 
+  - Android Development
+  - AI/ML for Agriculture
+  - Game Development
+  - Open Source
+skills:
+  - Java
+  - Python
+  - C++
+  - TensorFlow Lite
+  - YOLOv8+
+  - Android Studio
+learning:
+  - Unity Game Development
+  - Advanced DSA
+  - Web Development (Flask/Django)
+hackathon_participation:
+  - SIH 2024 Finalist
+  - Hackoverflow
+  - Kavach
 
-    void code() {
-        while(alive) {
-            learn();
-            build();
-            debug();
-            repeat();
-        }
-    }
-}
 ````
 
 ---
