@@ -1,6 +1,6 @@
 <!-- HEADER CAPSULE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:004aad&height=130&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=34&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00ff99&height=120&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=32&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -121,43 +121,35 @@ achievements:
 
 ---
 
-### 🌐 Connect with Me
+### Let's Connect 
 
-<p align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-
+<p align="center">
   <a href="mailto:swati35326@gmail.com" title="Email Me">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
-
   <a href="tel:+916261124618" title="Call Me">
-    <img src="https://img.shields.io/badge/-Phone-0A66C2?style=for-the-badge&logo=ios&logoColor=white" />
+    <img src="https://img.shields.io/badge/📞-Phone-0A66C2?style=for-the-badge&logo=ios&logoColor=white&labelColor=0D1117" />
   </a>
-
   <a href="https://www.linkedin.com/in/swati-pandey-a0248a239/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
-
   <a href="https://github.com/gr8swati" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
-
   <a href="https://leetcode.com/u/swatipandey_62/" title="LeetCode">
-    <img src="https://img.shields.io/badge/-LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/🧩-LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" />
   </a>
-
   <a href="https://www.geeksforgeeks.org/user/swatipandktjl/" title="GeeksforGeeks">
-    <img src="https://img.shields.io/badge/-GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/📚-GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" />
   </a>
-
   <a href="https://www.hackerrank.com/profile/swatipandey_cse1" title="HackerRank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/🏆-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" />
   </a>
-
   <a href="https://x.com/PSWATI51842689" title="X / Twitter">
-    <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/🐦-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
   </a>
-
 </p>
+
 
 
 ### 📊 GitHub Analytics
@@ -174,15 +166,15 @@ achievements:
 ---
 
 ### ☕ Fun Bytes
-
-* Fueled by coffee ☕ • Debugging life • Deploying dreams
-* `System.out.println("Let's build something epic!");`
-* *Always in beta mode — improving every commit!*
+<p align="center">
+  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">Fueled by coffee ☕ • Debugging life • Deploying dreams</code><br>
+  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">System.out.println("Let's build something epic!");</code><br>
+  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">Always in beta mode — improving every commit!</code>
+</p>
 
 ---
 
 <!-- FOOTER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00ff99&height=80&section=footer"/>
 </p>
