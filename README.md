@@ -1,24 +1,23 @@
+<!-- HEADER CAPSULE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20I'm%20Swati%20Pandey%20👩‍💻&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <h1 align="center">
   Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm <strong>Swati Pandey</strong> 👩‍💻
 </h1>
 
-
 <!-- Centered Typing Animation -->
 <p align="center">
   <a href="https://github.com/gr8swati">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=+Android+Developer;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Finalist;🔧+Problem+Solver+%26+Builder" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Android+Developer;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Finalist;🔧+Problem+Solver+%26+Builder" alt="Typing Animation" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 ---
 
 ### 🧑‍💻 About Me
 
-<!-- Java Developer Vibes -->
 ```java
 public class SwatiPandey {
     private String role = "Android Developer | AI/ML Explorer";
@@ -37,45 +36,54 @@ public class SwatiPandey {
         }
     }
 }
+````
 
-```
+---
 
 ### 🚀 Tech Stack & Tools
 
-**💻 Languages**  
+**💻 Languages**
 Java • Kotlin • Python • C++
 
-**📱 Mobile & Cloud**  
+**📱 Mobile & Cloud**
 Android Studio • Firebase • ML Kit
 
-**🤖 AI/ML & Dev Tools**  
+**🤖 AI/ML & Dev Tools**
 TensorFlow • YOLOv8+ • VS Code • GitHub • Docker
+
+---
 
 ### 🌟 Pinned Projects
 
-| Project | Description |
-|---------|-------------|
-| [📄 PDF Editor Pro](https://github.com/gr8swati/pdf-editor-pro) | Convert, compress, scan & edit PDFs with Firebase Auth & clean UI<br>✔️ 25% fewer crashes • 20% better retention<br>**Stack:** Java • Android Studio • Firebase |
-| [💸 Expense Manager](https://github.com/gr8swati/expense-manager) | Real-time expense tracking with smooth, memory-optimized UI<br>✔️ 40% faster data visualization<br>**Stack:** MVVM • Java • Realm DB |
-| [🧠 Real-Time Detection](https://github.com/gr8swati/face-object-detection) | Detect faces & objects in real-time with CameraX + ML Kit<br>✔️ 95% accuracy • 30% faster inference<br>**Stack:** Android • ML Kit • TensorFlow |
-| [🌾 AI Agri Price Predictor](https://github.com/gr8swati/ai-agri-price-predictor) | Predict vegetable prices using TensorFlow + YOLOv8+<br>✔️ Real-time detection + API-based prediction<br>**Stack:** Python • Flask • TensorFlow • TFLite |
+| Project                                                                           | Description                                                                                                                                                     |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [📄 PDF Editor Pro](https://github.com/gr8swati/pdf-editor-pro)                   | Convert, compress, scan & edit PDFs with Firebase Auth & clean UI<br>✔️ 25% fewer crashes • 20% better retention<br>**Stack:** Java • Android Studio • Firebase |
+| [💸 Expense Manager](https://github.com/gr8swati/expense-manager)                 | Real-time expense tracking with smooth, memory-optimized UI<br>✔️ 40% faster data visualization<br>**Stack:** MVVM • Java • Realm DB                            |
+| [🧠 Real-Time Detection](https://github.com/gr8swati/face-object-detection)       | Detect faces & objects in real-time with CameraX + ML Kit<br>✔️ 95% accuracy • 30% faster inference<br>**Stack:** Android • ML Kit • TensorFlow                 |
+| [🌾 AI Agri Price Predictor](https://github.com/gr8swati/ai-agri-price-predictor) | Predict vegetable prices using TensorFlow + YOLOv8+<br>✔️ Real-time detection + API-based prediction<br>**Stack:** Python • Flask • TensorFlow • TFLite         |
+
+---
 
 ### 🏆 Achievements
 
-- 🧠 550+ DSA Problems Solved — Time Complexity: O(consistency)
-- 🛡️ HackOverflow Finalist 2024 — Legal AI App (Trie + Firebase)
-- 🕵️‍♂️ Kavach Finalist 2023 — Violence Detection via YOLO + CCTV Streams
-- 🥇 CSE Branch Topper 2022 — GGCT
-- 🚀 Shortlisted for Smart India Hackathon 2024
+* 🧠 550+ DSA Problems Solved — Time Complexity: O(consistency)
+* 🛡️ HackOverflow Finalist 2024 — Legal AI App (Trie + Firebase)
+* 🕵️‍♂️ Kavach Finalist 2023 — Violence Detection via YOLO + CCTV Streams
+* 🥇 CSE Branch Topper 2022 — GGCT
+* 🚀 Shortlisted for Smart India Hackathon 2024
+
+---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati_Pandey-blue?style=flat&logo=linkedin)](https://linkedin.com/in/swati-pandey)
-[![GitHub](https://img.shields.io/badge/GitHub-gr8swati-black?style=flat&logo=github)](https://github.com/gr8swati)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Swati-green?style=flat&logo=geeksforgeeks)](https://geeksforgeeks.org/user/gr8swati)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Swati-orange?style=flat&logo=leetcode)](https://leetcode.com/gr8swati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati_Pandey-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/swati-pandey)
+[![GitHub](https://img.shields.io/badge/GitHub-gr8swati-black?style=flat\&logo=github)](https://github.com/gr8swati)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Swati-green?style=flat\&logo=geeksforgeeks)](https://geeksforgeeks.org/user/gr8swati)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Swati-orange?style=flat\&logo=leetcode)](https://leetcode.com/gr8swati)
 
 📍 Jabalpur, Madhya Pradesh, India | 🌐 Always online in dev mode
+
+---
 
 ### 📈 GitHub Analytics
 
@@ -88,14 +96,24 @@ TensorFlow • YOLOv8+ • VS Code • GitHub • Docker
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr8swati&layout=compact&theme=transparent&hide_border=true" width="60%"/> 
 </p>
 
+---
+
 ### 😄 Fun Fact
 
-☕ I run on coffee, compile dreams into apps, and refactor bugs into features  
-💬 `System.out.println("Let's build something epic!");`  
+☕ I run on coffee, compile dreams into apps, and refactor bugs into features
+💬 `System.out.println("Let's build something epic!");`
 🚀 Always in beta mode — updating daily!
+
+---
 
 ### 💡 Dev Vibes
 
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=18&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=480&lines=Compiling+passion...;Debugging+life...;Pushing+to+main...;Deploying+dreams...;Connect+with+me+%F0%9F%91%87" alt="Dev Mode Activated" /> 
+</p>
+
+<!-- FOOTER CAPSULE -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
