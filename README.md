@@ -154,11 +154,3 @@ achievements:
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Compiling+passion...;Debugging+life...;Pushing+to+main...;Deploying+dreams...;Connect+with+me" alt="Dev Mode Activated" />
 </p>
 
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
