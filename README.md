@@ -151,5 +151,5 @@ achievements:
 
 <!-- Dev Mode Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Compiling+passion...;Debugging+life...;Pushing+to+main...;Deploying+dreams...;Connect+with+me+%F0%9F%91%87" alt="Dev Mode Activated" />
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Compiling+passion...;Debugging+life...;Pushing+to+main...;Deploying+dreams...;Connect+with+me" alt="Dev Mode Activated" />
 </p>
