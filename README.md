@@ -1,5 +1,5 @@
 <h1 align="center" style="font-style: italic;">
-  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm <strong>Swati Pandey</strong> 👩‍💻
+  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm <strong>Swati Pandey</strong> 
 </h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/c9/d8/22/c9d82282ad54e2dabc3c81a538a7340a.gif" width="500" alt="Swati Banner Animation"/>
