@@ -24,7 +24,7 @@ phone: +91-6261124618
 location: Jabalpur, Madhya Pradesh, India
 education: 
   - Bachelor of Technology in Computer Science and Engineering
-  - Gyan Ganga College of Technology (2021–2025), CGPA: 8.56
+  - Gyan Ganga College of Technology, CGPA: 8.56
 skills:
   languages: [Java, Python, C++, Kotlin, JavaScript, SQL, XML]
   tools: [VS Code, IntelliJ IDEA, Android Studio, Git/GitHub, PyCharm, Google Colab]
