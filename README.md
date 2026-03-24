@@ -28,12 +28,12 @@ education:
 core_competency: ☕ Java Backend Development
 skills:
   backend:
-    languages: [Java, Python, Kotlin, JavaScript]
+    languages: [Java]
     frameworks: [Spring Boot, Spring MVC, Hibernate, JPA, RESTful APIs, Microservices]
-    databases: [MySQL, PostgreSQL, Firebase, RealmDB]
-    tools: [Maven, Gradle, Postman, Swagger, Git, GitHub Actions]
+    databases: [MySQL, Firebase, RealmDB]
+    tools: [Maven, Gradle, Postman, Git, GitHub Actions]
   other:
-    languages: [C++, SQL, XML]
+    languages: [SQL, XML]
     tools: [VS Code, IntelliJ IDEA, Android Studio, PyCharm, Google Colab]
     frameworks: [TensorFlow, OpenCV, YOLOv8+, MVVM]
 interests: [Building Scalable Backends, System Design, Android Development, Machine Learning]
@@ -79,6 +79,9 @@ achievements:
 </p>
 
 ---
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
+</p>
 
 ### Projects
 
