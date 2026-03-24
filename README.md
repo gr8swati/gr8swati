@@ -80,18 +80,21 @@ achievements:
 
 ---
 
-### 🚀 Featured Projects (Backend & Full Stack)
+### Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [![TaskFlow](https://img.shields.io/badge/-⚡%20TaskFlow%20(Backend)-0D1117?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/gr8swati/taskflow-backend) | **TaskFlow Backend**<br>REST API for task management with JWT auth & role-based access. | Spring Boot, Spring Security, JWT, MySQL, JPA, Maven |
-| [![CropCare](https://img.shields.io/badge/-🌾%20CropCare%20App-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) | **CropCare App**<br>AI-powered vegetable recognition & price prediction with backend integration. | Spring Boot, YOLOv8+, TensorFlow Lite, Firebase |
-| [![Expense Manager](https://img.shields.io/badge/-💰%20Expense%20Manager-0D1117?style=for-the-badge&logo=googlewallet&logoColor=white)](https://github.com/gr8swati/expense-manager) | **Expense Manager**<br>Track & visualize expenses with cloud sync & reports. | Kotlin, MVVM, RealmDB, Firebase, REST APIs |
-| [![Violence Detection](https://img.shields.io/badge/-🚨%20Violence%20Detection%20System-0D1117?style=for-the-badge&logo=opencv&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) | **Violence Detection System**<br>Real-time CCTV violence detection with Flask backend API. | Python, Flask, YOLOv8, OpenCV, REST API |
-| [![Newzify](https://img.shields.io/badge/-📰%20Newzify%20App-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) | **Newzify App**<br>News aggregator with search, bookmarks, and user preferences. | Retrofit, Firebase, MVVM, NewsAPI |
-| [![Eye Controlled Player](https://img.shields.io/badge/-👁️%20Eye%20Controlled%20Player-0D1117?style=for-the-badge&logo=googleglass&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) | **Eye Controlled Video Player**<br>Accessibility tool controlled by eye movements. | MediaPipe, PyAutoGUI, Python, OpenCV |
+| ![CropCare](https://portfolio-nu-eight-60.vercel.app/) | ![Expense Manager](https://github.com/gr8swati/expense-manager) |
+| --- | --- |
+| **CropCare App**<br>AI-powered vegetable recognition & price prediction.<br>_YOLOv8+ · TensorFlow Lite · Firebase_ | **Expense Manager**<br>Track & visualize expenses with pie charts.<br>_MVVM · RealmDB · Material Design_ |
+
+| ![Face/Object Detection](https://github.com/gr8swati/face-object-detection) | ![Newzify](https://portfolio-nu-eight-60.vercel.app/) |
+| --- | --- |
+| **Face & Object Detection**<br>Real-time detection with ML Kit & custom models.<br>_OpenCV · CameraX · Android Studio_ | **Newzify App**<br>News aggregator with categories, search & bookmarks.<br>_Retrofit · Firebase · Dark Mode_ |
+
+| ![Eye Controlled Player](https://portfolio-nu-eight-60.vercel.app/) | ![Violence Detection](https://portfolio-nu-eight-60.vercel.app/) |
+| --- | --- |
+| **Eye Controlled Video Player**<br>Play/pause/seek using eye movements.<br>_MediaPipe · PyAutoGUI · Accessibility Focused_ | **Violence Detection System**<br>Real-time CCTV violence detection.<br>_YOLOv8 · Flask · OpenCV_ |
 
 </div>
 
@@ -146,20 +149,14 @@ achievements:
 
 ---
 
-### ☕ Java Fueled Fun Bytes
-
+### ☕ Fun Bytes
 <p align="center">
-  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">public class Developer {</code><br>
-  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">&nbsp;&nbsp;&nbsp;&nbsp;private String fuel = "☕ Coffee";</code><br>
-  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">&nbsp;&nbsp;&nbsp;&nbsp;private String state = "Debugging Life";</code><br>
-  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">&nbsp;&nbsp;&nbsp;&nbsp;public void deployDreams() {</code><br>
-  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Let's build something epic!");</code><br>
-  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">&nbsp;&nbsp;&nbsp;&nbsp;}</code><br>
-  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">}</code><br>
-  <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">// Always in beta — improving every commit!</code>
+<code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">Fueled by coffee ☕ • Debugging life • Deploying dreams</code><br>
+<code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">System.out.println("Let's build something epic!");</code><br>
+<code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">Always in beta mode — improving every commit!</code>
 </p>
 
 <!-- Dev Mode Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Compiling+passion...;Debugging+life...;Pushing+to+main...;Deploying+dreams...;Connect+with+me" alt="Dev Mode Activated" />
+<img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Compiling+passion...;Debugging+life...;Pushing+to+main...;Deploying+dreams...;Connect+with+me" alt="Dev Mode Activated" />
 </p>
