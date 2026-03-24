@@ -20,7 +20,6 @@
 ```yaml
 name: Swati Pandey
 email: swati35326@gmail.com
-phone: +91-6261124618
 location: Jabalpur, Madhya Pradesh, India
 education: 
   - Bachelor of Technology in Computer Science and Engineering
