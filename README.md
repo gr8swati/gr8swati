@@ -106,7 +106,7 @@ achievements:
 
 - ☕ **Java Backend Focus**: Designed and implemented REST APIs with Spring Boot, focusing on scalability and security.
 - 📊 Solved **550+ DSA problems** (GeeksforGeeks) — strengthening algorithmic thinking for efficient backend logic.
-- 🥉 **3rd Rank (2024)** – Computer Science Engineering, Gyan Ganga College of Technology
+- 🥉 **3rd Rank** – Computer Science Engineering, Gyan Ganga College of Technology
 - 👩‍💻 **Team Leader – Smart India Hackathon 2024 (Finalist)**
 - 🎯 **Finalist – Hackoverflow 2024 & Kavach Hackathon 2023**
 - 🏅 **College Topper – 2022**
