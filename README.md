@@ -1,4 +1,3 @@
-
 <h1 align="center" style="font-style: italic;">
   Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm <strong>Swati Pandey</strong> 
 </h1>
@@ -8,9 +7,10 @@
 </p>
 
 <!-- Centered Typing Animation with Java Backend Focus -->
+
 <p align="center">
   <a href="https://github.com/gr8swati">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=☕+Backend+Java+Developer;⚙️+Spring+%7C+Hibernate+%7C+REST+APIs;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Finalist;🔧+Problem+Solver+%26+Innovator;🚀+Building+Scalable+Apps+%26+Intelligent+Systems" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=☕+Software+Development+Engineer+I;🏢+Building+Backend+Systems+at+Flipkart;⚙️+Java+%7C+Spring+Boot+%7C+REST+APIs;🚚+City+Logistics+%26+Last-Mile+Delivery;🔧+Problem+Solver+%26+Innovator;🚀+Building+Reliable+Backend+Services" alt="Typing Animation" />
   </a>
 </p>
 
@@ -18,35 +18,57 @@
 
 ### 🧑‍💻 Who Am I? (The Java Backend Edition)
 
-> *From `public static void main` to building robust, scalable systems — I turn logic into impact.*
+> *From `public static void main` to building reliable backend systems — I turn logic into impact.*
 
 ```yaml
 name: Swati Pandey
-email: [swati35326@gmail.com](mailto:swati35326@gmail.com)
-location: Jabalpur, Madhya Pradesh, India
-education: 
+email: swati35326@gmail.com
+location: Bengaluru, Karnataka, India
+current_role: Software Development Engineer I
+current_company: Flipkart
+
+education:
   - Bachelor of Technology in Computer Science and Engineering
-  - Gyan Ganga College of Technology, CGPA: 8.56
-core_competency: ☕ Java Backend Development
+  - Gyan Ganga College of Technology
+  - CGPA: 8.55/10
+
+core_competency: Java Backend Development
+
+current_focus:
+  - City Logistics and Last-Mile Delivery
+  - Trip Management and Route Planning
+  - Backend API Development and Integration
+  - Service Reliability and Integration Testing
+
 skills:
   backend:
-    languages: [Java]
-    frameworks: [Spring Boot, Spring MVC, Hibernate, JPA, RESTful APIs, Microservices]
-    databases: [MySQL, Firebase, RealmDB]
+    languages: [Java, SQL]
+    frameworks: [Spring Boot, Spring MVC, Hibernate, JPA, REST APIs, Microservices]
+    databases: [MySQL, PostgreSQL, Redis]
+    messaging: [Apache Kafka]
     tools: [Maven, Gradle, Postman, Git, GitHub Actions]
+
   other:
-    languages: [SQL, XML]
-    tools: [VS Code, IntelliJ IDEA, Android Studio, PyCharm, Google Colab]
-    frameworks: [TensorFlow, OpenCV, YOLOv8+, MVVM]
-interests: [Building Scalable Backends, System Design, Android Development, Machine Learning]
+    languages: [Python, Kotlin, JavaScript]
+    tools: [IntelliJ IDEA, VS Code, Android Studio, Google Colab]
+    technologies: [Docker, AWS, Google Cloud, TensorFlow, OpenCV]
+
+interests:
+  - Backend Engineering
+  - Distributed Systems
+  - System Design
+  - Cloud Computing
+  - Data Structures and Algorithms
+
 achievements:
-  - 550+ DSA Problems Solved (GeeksforGeeks)
-  - HackOverflow 2024 Finalist (Legal AI App)
-  - Kavach 2023 Finalist (Violence Detection System)
-  - College Topper (2022)
+  - 550+ DSA Problems Solved
+  - HackOverflow 2024 Finalist
+  - Kavach Hackathon 2023 Finalist
+  - Academic Achievements in Computer Science
 ```
 
 <!-- RESUME & PORTFOLIO BUTTONS -->
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1mKxN2zQ1RIeCBtg7vLkWsZR8G7skbH9i/view" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Resume-View%20%26%20Download-0f2027?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1abc9c" alt="Resume" />
@@ -55,6 +77,21 @@ achievements:
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0f2027?style=for-the-badge&logo=vercel&logoColor=white&labelColor=9b59b6" alt="Portfolio" />
   </a>
 </p>
+
+---
+
+### 💼 Current Role: Software Development Engineer I at Flipkart
+
+* Contributing to backend services supporting city logistics and last-mile delivery workflows.
+* Working on trip management, route planning, and related service integrations.
+* Contributing to Hub Service APIs, including single and bulk feature-check operations.
+* Supporting Beat Planner integrations and trip/runsheet API migration.
+* Performing integration testing and pre-production validation.
+* Collaborating on backend reliability, debugging, and deployment readiness.
+
+**Focus areas:** Java · Spring Boot · REST APIs · Microservices · SQL · Integration Testing
+
+*Project descriptions are kept high-level to protect proprietary implementation details.*
 
 ---
 
@@ -69,8 +106,9 @@ achievements:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  
+
   <!-- Supporting Languages & Tools -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -86,17 +124,17 @@ achievements:
 
 <div align="center">
 
-| [![CropCare](https://img.shields.io/badge/-CropCare%20App-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) | [![Expense Manager](https://img.shields.io/badge/-Expense%20Manager-0D1117?style=for-the-badge&logo=googlewallet&logoColor=white)](https://github.com/gr8swati/expense-manager) |
-| --- | --- |
-| **CropCare App**<br>AI-powered vegetable recognition & price prediction.<br>_YOLOv8+ · TensorFlow Lite · Firebase_ | **Expense Manager**<br>Track & visualize expenses with pie charts.<br>_MVVM · RealmDB · Material Design_ |
+| [![CropCare](https://img.shields.io/badge/-CropCare%20App-0D1117?style=for-the-badge\&logo=tensorflow\&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) | [![Expense Manager](https://img.shields.io/badge/-Expense%20Manager-0D1117?style=for-the-badge\&logo=googlewallet\&logoColor=white)](https://github.com/gr8swati/expense-manager) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CropCare App**<br>AI-powered vegetable recognition & price prediction.<br>*YOLOv8+ · TensorFlow Lite · Firebase*                                                  | **Expense Manager**<br>Track & visualize expenses with pie charts.<br>*MVVM · RealmDB · Material Design*                                                                          |
 
-| [![Face/Object Detection](https://img.shields.io/badge/-Face%2FObject%20Detection-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white)](https://github.com/gr8swati/face-object-detection) | [![Newzify](https://img.shields.io/badge/-Newzify%20App-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) |
-| --- | --- |
-| **Face & Object Detection**<br>Real-time detection with ML Kit & custom models.<br>_OpenCV · CameraX · Android Studio_ | **Newzify App**<br>News aggregator with categories, search & bookmarks.<br>_Retrofit · Firebase · Dark Mode_ |
+| [![Face/Object Detection](https://img.shields.io/badge/-Face%2FObject%20Detection-0D1117?style=for-the-badge\&logo=googlegemini\&logoColor=white)](https://github.com/gr8swati/face-object-detection) | [![Newzify](https://img.shields.io/badge/-Newzify%20App-0D1117?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Face & Object Detection**<br>Real-time detection with ML Kit & custom models.<br>*OpenCV · CameraX · Android Studio*                                                                                | **Newzify App**<br>News aggregator with categories, search & bookmarks.<br>*Retrofit · Firebase · Dark Mode*                                                        |
 
-| [![Eye Controlled Player](https://img.shields.io/badge/-Eye%20Controlled%20Player-0D1117?style=for-the-badge&logo=googleglass&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) | [![Violence Detection](https://img.shields.io/badge/-Violence%20Detection%20System-0D1117?style=for-the-badge&logo=opencv&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) |
-| --- | --- |
-| **Eye Controlled Video Player**<br>Play/pause/seek using eye movements.<br>_MediaPipe · PyAutoGUI · Accessibility Focused_ | **Violence Detection System**<br>Real-time CCTV violence detection.<br>_YOLOv8 · Flask · OpenCV_ |
+| [![Eye Controlled Player](https://img.shields.io/badge/-Eye%20Controlled%20Player-0D1117?style=for-the-badge\&logo=googleglass\&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) | [![Violence Detection](https://img.shields.io/badge/-Violence%20Detection%20System-0D1117?style=for-the-badge\&logo=opencv\&logoColor=white)](https://portfolio-nu-eight-60.vercel.app/) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Eye Controlled Video Player**<br>Play/pause/seek using eye movements.<br>*MediaPipe · PyAutoGUI · Accessibility Focused*                                                                   | **Violence Detection System**<br>Real-time CCTV violence detection.<br>*YOLOv8 · Flask · OpenCV*                                                                                         |
 
 </div>
 
@@ -104,12 +142,12 @@ achievements:
 
 ### 🏆 Achievements & Milestones
 
-- ☕ **Java Backend Focus**: Designed and implemented REST APIs with Spring Boot, focusing on scalability and security.
-- 📊 Solved **550+ DSA problems** (GeeksforGeeks) — strengthening algorithmic thinking for efficient backend logic.
-- 🥉 **3rd Rank** – Computer Science Engineering, Gyan Ganga College of Technology
-- 👩‍💻 **Team Leader – Smart India Hackathon 2024 (Finalist)**
-- 🎯 **Finalist – Hackoverflow 2024 & Kavach Hackathon 2023**
-- 🏅 **College Topper – 2022**
+* ☕ **Java Backend Development:** Building and integrating REST APIs with a focus on maintainability, reliability, and security.
+* 📊 **550+ DSA Problems Solved** — strengthening algorithmic thinking and problem-solving skills.
+* 🥉 **3rd Rank** – Computer Science Engineering, Gyan Ganga College of Technology.
+* 👩‍💻 **Hackathon Team Leadership** – contributed to team-based problem solving and project development.
+* 🎯 **Finalist – HackOverflow 2024 & Kavach Hackathon 2023.**
+* 🏅 **Academic Achievement** – recognized for academic performance.
 
 ---
 
@@ -141,17 +179,18 @@ achievements:
 ### 📊 GitHub Analytics
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=gr8swati&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gr8swati&theme=transparent&hide_border=true" width="48%"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=gr8swati&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" alt="GitHub Statistics"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gr8swati&theme=transparent&hide_border=true" width="48%" alt="GitHub Contribution Streak"/> 
 </p> 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr8swati&layout=compact&theme=transparent&hide_border=true" width="60%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr8swati&layout=compact&theme=transparent&hide_border=true" width="60%" alt="Top Languages"/> 
 </p>
 
 ---
 
 ### ☕ Fun Bytes
+
 <p align="center">
   <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">Fueled by coffee ☕ • Debugging life • Deploying dreams</code><br>
   <code style="background:#0D1117;color:#00FF99;padding:5px 10px;border-radius:5px;">System.out.println("Let's build something epic!");</code><br>
@@ -159,6 +198,7 @@ achievements:
 </p>
 
 <!-- Dev Mode Typing Animation -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Compiling+passion...;Debugging+life...;Pushing+to+main...;Deploying+dreams...;Connect+with+me" alt="Dev Mode Activated" />
 </p>
